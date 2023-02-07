@@ -1,1 +1,1 @@
-git fetch origin\ngit merge origin/master
+git pull
